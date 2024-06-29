@@ -165,7 +165,7 @@ We welcome contributions from the community! To contribute:
    - Click the 'Fork' button on the top right of the repository page.
 2. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/yourusername/AMECA.git
+   git clone https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA.git
    ```
 3. **Create a Branch:**
    ```bash
