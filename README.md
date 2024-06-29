@@ -7,6 +7,9 @@
 - **Riki Awal Syahputra** (2120010136)
 - **Faza Rama Nugraha** (2120010291)
 
+![image](https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA/assets/93258081/67ccc285-81a8-42d2-9486-edd4b2980e92)
+
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -27,6 +30,8 @@
 
 AMECA is a Java-based desktop application designed to introduce and demonstrate symmetric encryption using the Advanced Encryption Standard (AES). The application utilizes a single key for both encryption and decryption, ensuring secure communication and data protection.
 
+![image](https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA/assets/93258081/867ad90c-4e85-4f15-bd6e-b24531abf137)
+
 ## System Analysis
 
 ### Overview
@@ -38,6 +43,8 @@ AMECA is developed to provide a practical implementation of symmetric encryption
 - **Powered by AES:** Implements Advanced Encryption Standard for strong encryption.
 
 ## Design Interface
+
+![image](https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA/assets/93258081/7fbdce62-5377-43c1-8a2f-d6eaf7836f2e)
 
 ### User Interface
 
@@ -64,6 +71,8 @@ The table design is as follows:
 | 4  | cipher      | varchar   | 2000   | Encrypted ciphertext             |
 
 ## Flow Diagram
+
+![image](https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA/assets/93258081/a9d9174f-7132-4bd4-9afb-e3ab745527d8)
 
 ### General Flowchart
 
