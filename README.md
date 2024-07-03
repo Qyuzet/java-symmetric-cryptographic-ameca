@@ -122,7 +122,7 @@ Key components of the Java code include:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA.git
+   git clone https://github.com/Qyuzet/java-symmetric-cryptographic-ameca.git
    ```
 2. **Open the Project in NetBeans:**
    - Navigate to the cloned repository and open the project in NetBeans.
@@ -165,7 +165,7 @@ We welcome contributions from the community! To contribute:
    - Click the 'Fork' button on the top right of the repository page.
 2. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA.git
+   git clone https://github.com/Qyuzet/java-symmetric-cryptographic-ameca.git
    ```
 3. **Create a Branch:**
    ```bash
