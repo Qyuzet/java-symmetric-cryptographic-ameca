@@ -28,7 +28,7 @@
 
 ## Project Overview
 
-AMECA is a Java-based desktop application designed to introduce and demonstrate symmetric encryption using the Advanced Encryption Standard (AES). The application utilizes a single key for both encryption and decryption, ensuring secure communication and data protection.
+AMECA is a Java-based desktop application designed to introduce and demonstrate symmetric encryption using the Advanced Encryption Standard (AES). The application utilizes a single key for both encryption and decryption, ensuring secure communication and data protection..
 
 ![image](https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA/assets/93258081/867ad90c-4e85-4f15-bd6e-b24531abf137)
 
