@@ -40,7 +40,7 @@ AMECA is developed to provide a practical implementation of symmetric encryption
 
 - **Java-based Desktop Application:** Built with Java, making it cross-platform and robust.
 - **Symmetric Encryption:** Uses a single key for both encryption and decryption.
-- **Powered by AES:** Implements Advanced Encryption Standard for strong encryption.
+- **Powered by AES:** Implements Advanced Encryption Standard for strong encryption..
 
 ## Design Interface
 
