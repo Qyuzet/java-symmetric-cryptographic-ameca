@@ -57,7 +57,7 @@ AMECA's user interface is designed with simplicity and usability in mind. It fea
 
 ### Structure
 
-The database is structured to store encrypted messages along with the corresponding encryption keys and original plaintext. This design facilitates easy retrieval and management of encrypted data.
+The database is structured to store encrypted messages along with the corresponding encryption keys and original plaintext. This design facilitates easy retrieval and management of encrypted data..
 
 ## Table Design
 
