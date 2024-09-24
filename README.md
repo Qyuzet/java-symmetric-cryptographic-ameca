@@ -1,4 +1,4 @@
-# AMECA: Symmetric Cryptography Encryptor & Decryptor.
+# AMECA: Symmetric Cryptography Encryptor & Decryptor
 
 **Group 8 | 4 ISA 3 | CRUD Project**
 
