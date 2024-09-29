@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
+1. [Project Overview](#project-overview).
 2. [System Analysis](#system-analysis)
 3. [Design Interface](#design-interface)
 4. [Database Design](#database-design)
