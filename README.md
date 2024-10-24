@@ -5,7 +5,7 @@
 ## Team Members
 
 - **Riki Awal Syahputra** (2120010136) :: Leader
-- **Faza Rama Nugraha** (2120010291).
+- **Faza Rama Nugraha** (2120010291)
 
 ![image](https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA/assets/93258081/67ccc285-81a8-42d2-9486-edd4b2980e92)
 
