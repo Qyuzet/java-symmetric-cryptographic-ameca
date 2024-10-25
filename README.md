@@ -2,7 +2,7 @@
 
 **Group 8 | 4 ISA 3 | CRUD Project**
 
-## Team Members
+## Team Members.
 
 - **Riki Awal Syahputra** (2120010136) :: Leader
 - **Faza Rama Nugraha** (2120010291)
