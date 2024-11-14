@@ -10,7 +10,7 @@
 ![image](https://github.com/Qyuzet/Symmetric-Cryptography-Encryptor-Decryptor--AMECA/assets/93258081/67ccc285-81a8-42d2-9486-edd4b2980e92)
 
 
-## Table of Contents
+## Table of Contents.
 
 1. [Project Overview](#project-overview).
 2. [System Analysis](#system-analysis)
